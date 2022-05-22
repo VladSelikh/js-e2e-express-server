@@ -1,4 +1,5 @@
----
+
+-[![Build Status](https://dev.azure.com/UladzislauSelikh0117/Test%20Project/_apis/build/status/VladSelikh.js-e2e-express-server?branchName=main)](https://dev.azure.com/UladzislauSelikh0117/Test%20Project/_build/latest?definitionId=1&branchName=main)--
 page_type: sample
 languages:
 - javascript
